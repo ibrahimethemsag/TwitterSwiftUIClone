@@ -85,6 +85,8 @@ struct LoginView: View {
     }
 }
 
+// writed by ibrahimethemsag
+
 #Preview {
     LoginView()
 }
